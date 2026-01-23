@@ -318,6 +318,19 @@ img {
     transform: scale(1.1);
 }
 
+.portfolio-item.item-contain {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.portfolio-item.item-contain img {
+    object-fit: contain;
+    width: 90%;
+    height: 90%;
+}
+
 .portfolio-overlay {
     position: absolute;
     bottom: 0;
