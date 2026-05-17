@@ -1,0 +1,30 @@
+# Biz Mapper
+> Biz Mapper is an Australian digital agency specialising in Google My Business (GMB) optimisation, Local SEO, citation building, and landing page development for small businesses.
+
+## About
+Biz Mapper helps small and local businesses grow their online presence through expert digital strategies. Our mission is to ensure every small business has at least one professional email and one landing page to showcase their work.
+
+## Services
+- GMB Optimisation — Optimise your Google Business Profile to rank higher and attract more local customers.
+- Local SEO — Dominate local search results with targeted strategies tailored to your area.
+- Citation Building — Ensure business information is consistent across all major online directories.
+- Landing Page Development — Modern, responsive landing pages designed to convert visitors into customers.
+- Logo Design — Professional logo creation for brand identity.
+- Email Setup — Professional business email configuration.
+- Social Media Setup — Setup and optimisation across major social platforms.
+- Digital Business Card — Modern digital cards for networking.
+- Menu Design — Visual menu design for hospitality businesses.
+- UberEats & DoorDash Integration — Food delivery platform onboarding and setup.
+
+## Contact
+- Email: info.bizmapper@gmail.com
+- Phone: 0410 207 299
+- Website: https://bizmapper.github.io
+- Instagram: https://www.instagram.com/bizmapper/
+- Facebook: https://www.facebook.com/BizMapper.AU/
+- LinkedIn: https://www.linkedin.com/company/66298680/
+- X (Twitter): https://x.com/BizMapper_AU
+- WhatsApp: https://wa.me/61410207299
+
+## Booking
+Free consultations available at: https://calendar.app.google/orstnE8J89WLVehk7
