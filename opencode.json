@@ -1,0 +1,3 @@
+{
+  "plugin": ["@dietrichgebert/ponytail", ".opencode/plugins/graphify.js"]
+}

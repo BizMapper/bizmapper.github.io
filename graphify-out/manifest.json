@@ -1,0 +1,147 @@
+{
+  ".opencode/plugins/graphify.js": {
+    "mtime": 1783345007.7672334,
+    "ast_hash": "b33d000860642c6f4907a877e0387a21",
+    "semantic_hash": ""
+  },
+  "js/main.js": {
+    "mtime": 1777117130.497808,
+    "ast_hash": "7028e19c9179e2f90b4995e561776572",
+    "semantic_hash": ""
+  },
+  "opencode.json": {
+    "mtime": 1783345027.7154634,
+    "ast_hash": "70394dde3d75491caeaa9bf93e7e1e7c",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1783345007.7638893,
+    "ast_hash": "21ceb6533048be51308e69e7b74a35cf",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1779047460.22455,
+    "ast_hash": "a8eb73280c6fe495184aaf98bdd20549",
+    "semantic_hash": ""
+  },
+  "about.html": {
+    "mtime": 1780238738.6361177,
+    "ast_hash": "536ed9bec9b382e3333807fcf362d842",
+    "semantic_hash": ""
+  },
+  "blog.html": {
+    "mtime": 1780238777.5700657,
+    "ast_hash": "3c473a3b0641aaa0d42e8d758c88612e",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1780241750.6239562,
+    "ast_hash": "28dde3f31617ec73bcf547d4e692b593",
+    "semantic_hash": ""
+  },
+  "llms-full.txt": {
+    "mtime": 1779034511.1195788,
+    "ast_hash": "16af03b6979b1466e80c978e7f4e730f",
+    "semantic_hash": ""
+  },
+  "llms.txt": {
+    "mtime": 1779034505.542621,
+    "ast_hash": "b50eadabe0ab8275a96ed9d3768f63fa",
+    "semantic_hash": ""
+  },
+  "projects.html": {
+    "mtime": 1783344641.438281,
+    "ast_hash": "8392873fcd4cee255e1e30dd234076f7",
+    "semantic_hash": ""
+  },
+  "robots.txt": {
+    "mtime": 1779034524.5265977,
+    "ast_hash": "0fee84f48838e5db2e2b1d11cd5cf1c2",
+    "semantic_hash": ""
+  },
+  "services.html": {
+    "mtime": 1780238756.004495,
+    "ast_hash": "44921a3fb04fa6fe138b196278002b8d",
+    "semantic_hash": ""
+  },
+  "assets/images/Footer/flag_country_aboriginal.png": {
+    "mtime": 1777117130.4674964,
+    "ast_hash": "5b314d37d309302c2cafbf97d0d977cd",
+    "semantic_hash": ""
+  },
+  "assets/images/Footer/flag_country_torres-strait-islanders.png": {
+    "mtime": 1777117130.468766,
+    "ast_hash": "73f5f9bd1b8f1a1ebd5e1189282e6c58",
+    "semantic_hash": ""
+  },
+  "assets/images/logo.png": {
+    "mtime": 1777117130.4695811,
+    "ast_hash": "c327b267625df5c3c78ac25f84c098c8",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/Medo_Auto_Deals Logo.png": {
+    "mtime": 1762304143.9086745,
+    "ast_hash": "b7a77f3de2fa24a480358c0570d8404e",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/Sifarat_Logo.webp": {
+    "mtime": 1777122515.7927513,
+    "ast_hash": "89cf5a4b1da25a69ea97062dde42802d",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/aluverse.jpg": {
+    "mtime": 1777117130.4717884,
+    "ast_hash": "44fe623a1f60354ca5c2ff4b2e11cfd0",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/beit_rizq.webp": {
+    "mtime": 1777376475.9662063,
+    "ast_hash": "31fca8ccbbbbef4dc5e80857c49ed3c3",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/billy_bob.png": {
+    "mtime": 1777117130.4727917,
+    "ast_hash": "1c204bd20782d6e986267effd6d759c6",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/ginger_fusion_new.png": {
+    "mtime": 1777117130.474295,
+    "ast_hash": "a058ca2c7e89d397907806f9c05818b0",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/mic_nsw.png": {
+    "mtime": 1777117130.475768,
+    "ast_hash": "5faf2c4d3edec849157524146b017144",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/shawarma_wrap.png": {
+    "mtime": 1777117130.480315,
+    "ast_hash": "fa3c932e51dcfca2cc5abf362adcc547",
+    "semantic_hash": ""
+  },
+  "assets/images/portfolio/the_hunter_table.webp": {
+    "mtime": 1777123221.0131624,
+    "ast_hash": "1277e50a2ab0ffcb4ed6caf1c6ec4e09",
+    "semantic_hash": ""
+  },
+  "social icons/Linkedin icon 100x100.svg": {
+    "mtime": 1777718636.857779,
+    "ast_hash": "a782bf09e1dccac9f5cb89792f6e1ea2",
+    "semantic_hash": ""
+  },
+  "social icons/Linkedin icon big.svg": {
+    "mtime": 1777718024.1898057,
+    "ast_hash": "a5dc5dd760d68c7f5436d3eef808d411",
+    "semantic_hash": ""
+  },
+  "social icons/Linkedin-Logo.png": {
+    "mtime": 1777717481.2183793,
+    "ast_hash": "166787ab10ca9dd34291fbe129d6bbbc",
+    "semantic_hash": ""
+  },
+  "social icons/Linkedin-icon-svg.svg": {
+    "mtime": 1777717669.7053,
+    "ast_hash": "a75cdf95324685a51cf189b2f255d678",
+    "semantic_hash": ""
+  }
+}
